@@ -12,12 +12,17 @@ const RESOURCES = {
 "assets/linkedin.png": "3f60edfd3589f7ad589cd03676982f12",
 "assets/me.jpg": "0d99ec3a4fd2058cdf3b06a9e7080f98",
 "assets/ME.PNG": "a182bcda82bbfe0099708a0940458a3d",
+"assets/ME_resized.PNG": "758f63f2879b8434765fc36d7f85e228",
 "assets/NOTICES": "dce39115dd82ce1f1c917a10369db013",
 "assets/packages/flutter_markdown/assets/logo.png": "67642a0b80f3d50277c44cde8f450e50",
 "assets/pc_switch.png": "d6ef8b89b95b5ae0511b2d366bea5418",
+"assets/pc_switch_600.png": "b1d68f24ebd557d795f7bbd215807fc0",
 "assets/portfolio.png": "2c0f9ef44b238b567a6f8ac2bac5d036",
+"assets/portfolio_600.png": "f6aebd1c08f6525a2cc488e2377172af",
 "assets/py_snake.png": "f2b7a163241e0083e3870f490dd40cfc",
+"assets/py_snake_600.png": "8630bd69376c499c45d471af8b881769",
 "assets/rc_switch.png": "0b8dd3de374b4f49706b376aeef77c68",
+"assets/rc_switch_600.png": "b0e53f2f99cd0ed9a50f9134f3561a70",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
@@ -25,7 +30,7 @@ const RESOURCES = {
 "fonts/font.TTF": "cbe3aff6f510c25bf047211279cd5fe9",
 "index.html": "50483b6bada5963c7303580656d47c93",
 "/": "50483b6bada5963c7303580656d47c93",
-"main.dart.js": "97683b26ce9cc4f3aaa5c995a22d1d22",
+"main.dart.js": "8000c2497a61c72d9a9e6b24abb0c1c3",
 "version.json": "1235ab7eca1a3fd4b110480ccff5828a"
 };
 
